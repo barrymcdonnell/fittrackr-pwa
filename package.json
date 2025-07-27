@@ -1,0 +1,10 @@
+{
+  "name": "your-app-name",
+  "version": "0.1.0",
+  "private": true,
+  "homepage": "https://barrymcdonnell.github.io/fittrackr-pwa",
+  "dependencies": {
+    // ... your dependencies
+  },
+  // ... rest of your package.json
+}
