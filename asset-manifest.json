@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/fittrackr-pwa/static/js/main.41201134.js",
+    "index.html": "/fittrackr-pwa/index.html",
+    "main.41201134.js.map": "/fittrackr-pwa/static/js/main.41201134.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.41201134.js"
+  ]
+}
